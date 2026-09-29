@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+8#!/usr/bin/env python3
 """
 Website Security Toolkit v2
 Passive / low-impact defensive auditing. Use ONLY on sites you own or are
